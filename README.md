@@ -4,5 +4,4 @@ Course Code: CO-300
 Assignment: #2
 
 Overview:-
-
 CTCP is Microsoft’s TCP and is deployed in its operating systems since Windows Vista. It is currently the default TCP in Microsoft operating systems.
